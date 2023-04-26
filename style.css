@@ -1,0 +1,28 @@
+html {
+    font-family: 'Rubik', sans-serif;
+    font-size: 125%;
+    color: white;
+    background-color: #1e1d40;
+    position: relative;
+    height: 100%;
+}
+
+.center {
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image {
+    padding: 50px;
+    background-color: #2f2957;
+}
+
+.disc {
+    font-weight: bold;
+    color: #6982f7;
+    font-size: 100%;
+}
